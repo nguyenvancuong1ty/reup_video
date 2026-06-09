@@ -1,0 +1,16 @@
+pyproject.toml
+video_translator/__init__.py
+video_translator/cli.py
+video_translator/extract.py
+video_translator/models.py
+video_translator/pipeline.py
+video_translator/render.py
+video_translator/translate.py
+video_translator/tts.py
+video_translator/utils.py
+video_translator.egg-info/PKG-INFO
+video_translator.egg-info/SOURCES.txt
+video_translator.egg-info/dependency_links.txt
+video_translator.egg-info/entry_points.txt
+video_translator.egg-info/requires.txt
+video_translator.egg-info/top_level.txt
